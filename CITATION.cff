@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this integration and the upstream projects listed in docs/ATTRIBUTION.md."
+title: "Baguette: a visual WeChat companion using the QQ AstrBot memory stack"
+type: software
+version: 0.1.0-alpha.1
+license: AGPL-3.0
+repository-code: "https://github.com/andyDgreat12345/baguette-wechat"
+authors:
+  - name: "Baguette contributors"

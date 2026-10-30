@@ -1,0 +1,25 @@
+{
+  "astrbot": {
+    "repository": "https://github.com/AstrBotDevs/AstrBot",
+    "version": "4.29.3",
+    "commit": "abf683071952375ec36baa4cad6b6f3d9c9bb03f",
+    "license": "AGPL-3.0"
+  },
+  "livingmemory": {
+    "repository": "https://github.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory",
+    "version": "2.8.2",
+    "commit": "a1e9c20a8c5fab93d6143f51be26fb1bbf8143ec",
+    "license": "AGPL-3.0"
+  },
+  "stealer": {
+    "repository": "https://github.com/nagatoquin33/astrbot_plugin_stealer",
+    "version": "3.1.11",
+    "commit": "758f94a5b0848c8723a56d20af3da4b8ef3c4e61",
+    "license": "AGPL-3.0"
+  },
+  "dafeiyu": {
+    "repository": "https://github.com/whyever77/dafeiyu-astrbot",
+    "commit": "fd220118f7a23a26a4ccfeb8eb69a2c93a80f226",
+    "license": "MIT"
+  }
+}

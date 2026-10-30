@@ -1,0 +1,21 @@
+name: Bug / 问题反馈
+description: Redacted reproducible issue / 请提供脱敏复现
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment / 环境
+      description: macOS, WeChat, Tart, Python, logical resolution; no account identifiers.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps and expected result / 复现与预期
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Redacted evidence / 脱敏证据
+      description: Do not upload runtime/, keys, private conversations or avatar bindings.

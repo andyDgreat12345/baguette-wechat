@@ -1,0 +1,16 @@
+{
+  "bot_id": "baguette",
+  "owner_id": "owner",
+  "owner_chat": "Owner",
+  "group_chats": [
+    "Example group"
+  ],
+  "vm_name": "baguette",
+  "tart_binary": "tart",
+  "proxy": "direct",
+  "deepseek_model": "deepseek-flash",
+  "vision_model": "qwen3.5:9b",
+  "vision_base_url": "http://127.0.0.1:11434/v1",
+  "embedding_base_url": "http://127.0.0.1:11434",
+  "embedding_model": "bge-m3"
+}

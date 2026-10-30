@@ -1,0 +1,1 @@
+只根据这张图片实际可见的内容输出一个JSON，不输出思考或说明。description用不超过45字描述主体、动作、表情和环境，不猜人物身份、出处、经历，不把常见梗文案当作画面文字。overlay_text只逐字抄写实际清晰可见的文字；没字或看不清必须是空字符串，description里也不能编造配文。emotion/category从下列分类中选最合适的，不确定可other。scenes是可能的使用语境，只能基于画面情绪，不当作事实。tags只用可见物体/动作。字段：{"category":"other","tags":[],"description":"实际画面","overlay_text":"","scenes":[]}。分类：{emotion_list}

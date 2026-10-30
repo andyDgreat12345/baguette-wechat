@@ -1,0 +1,5 @@
+name: wechat_sticker_actions
+display_name: WeChat Sticker Actions
+desc: Select a verified sticker ID for the local WeChat transport.
+version: 1.0.0
+author: Andy / Codex

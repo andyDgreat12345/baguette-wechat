@@ -1,0 +1,10 @@
+{
+  "scope": "selected_chats",
+  "selected_chats": [
+    "Example group"
+  ],
+  "poll_interval": 3,
+  "max_calls_per_hour": 60,
+  "min_reply_interval": 5,
+  "max_reply_chars": 500
+}

@@ -1,0 +1,24 @@
+# All local identity, auth, chat history, images, models and VM disks are private.
+runtime/
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+*.sqlite*
+*.db
+*.log
+*.pid
+*.pem
+*.key
+*.ipsw
+*.qcow2
+*.img
+*.dmg
+*.zip
+*.tar.gz
+build/
+dist/

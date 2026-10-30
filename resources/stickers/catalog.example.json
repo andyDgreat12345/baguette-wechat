@@ -1,0 +1,23 @@
+{
+  "schema": "semantic-reference-only",
+  "not_send_ready": true,
+  "collection_size": 36,
+  "columns": 5,
+  "order": "reverse",
+  "example": {
+    "id": "S01",
+    "guide_number": 1,
+    "wechat_position": 36,
+    "meaning": "Surprised reaction / 惊讶回应",
+    "use_when": [
+      "Unexpected but harmless news"
+    ],
+    "avoid_when": [
+      "Serious distress"
+    ],
+    "confidence": "owner-confirmed required",
+    "wechat_verified": false,
+    "template": "templates/S01.png",
+    "calibration_bounds": null
+  }
+}

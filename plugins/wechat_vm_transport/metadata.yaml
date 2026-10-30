@@ -1,0 +1,5 @@
+name: wechat_vm_transport
+display_name: WeChat VM Transport
+desc: Preserve observed chat type, speaker, and media through AstrBot's native pipeline.
+version: 1.0.0
+author: Andy / Codex

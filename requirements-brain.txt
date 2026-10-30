@@ -1,0 +1,4 @@
+astrbot==4.29.3
+faiss-cpu==1.15.1
+RapidFuzz==3.14.6
+Pillow==13.0.0
